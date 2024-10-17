@@ -1,0 +1,66 @@
+{
+    "en": {
+        "buttons": {
+            "select_files": "Select Files",
+            "convert": "Convert",
+            "save_individual": "Save Individually",
+            "merge_files": "Merge Files"
+        },
+        "labels": {
+            "file_type": "Select Spectral File Type:",
+            "output_mode": "Output Mode:",
+            "selected_files": "Selected Files:",
+            "filter_by_status": "Filter by Status:",
+            "file": "File Path",
+            "status": "Status",
+            "language_select": "Select Language:"
+        },
+        "statuses": {
+            "all": "All",
+            "not_converted": "Not Converted",
+            "success": "Success",
+            "failure": "Failure"
+        },
+        "dialogs": {
+            "choose_directory": "Choose Directory for Saving Files",
+            "conversion_complete": "Conversion Complete",
+            "inconsistent_data": "Inconsistent Data",
+            "inconsistent_data_warning": "Wavelengths differ between files. Please check them manually.",
+            "no_files": "No Files Selected",
+            "no_files_warning": "Please select spectral files first."
+        },
+        "summary_message": "{} files converted successfully.\n{} files failed to convert."
+    },
+    "zh": {
+        "buttons": {
+            "select_files": "选择文件",
+            "convert": "转换",
+            "save_individual": "单独保存",
+            "merge_files": "合并文件"
+        },
+        "labels": {
+            "file_type": "选择光谱文件类型:",
+            "output_mode": "输出模式:",
+            "selected_files": "已选择文件:",
+            "filter_by_status": "按状态筛选:",
+            "file": "文件路径",
+            "status": "状态",
+            "language_select": "选择语言:"
+        },
+        "statuses": {
+            "all": "所有",
+            "not_converted": "未转换",
+            "success": "成功",
+            "failure": "失败"
+        },
+        "dialogs": {
+            "choose_directory": "选择保存文件的目录",
+            "conversion_complete": "转换完成",
+            "inconsistent_data": "数据不一致",
+            "inconsistent_data_warning": "文件的波长不同，请手动检查。",
+            "no_files": "未选择文件",
+            "no_files_warning": "请先选择光谱文件。"
+        },
+        "summary_message": "{} 个文件成功转换。\n{} 个文件转换失败。"
+    }
+}
