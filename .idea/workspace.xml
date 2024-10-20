@@ -7,187 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70d67fe8-7851-45e9-b83a-dcf50b1f681d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spcConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/dx_plugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/spa_plugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/spc_plugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspectra/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspectra/readers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspectra/readers/read_dx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspectra/readers/read_spa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspectra/readers/read_spc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spc_spectra/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spc_spectra/global_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spc_spectra/spc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spc_spectra/sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/4d_map.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/BC408_5mmHorizontal.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/CAthickyellow_try4_17_ZSCAN.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/CAthickyellow_try4_18.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/DERt3_1.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/DOERNER.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/Ft-ir.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/HENE25.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/HENE27.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/KRY3.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/KRY4.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/KRY5.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/MERC.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/NMR_FID.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/NMR_SPC.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/RAMAN.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/RUBY18.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/TS01.SPC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/kry2.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/m_evenz.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/m_ordz.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/m_xyxy.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/ms.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/nir.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/4d_map.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/BC408_5mmHorizontal.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/CAthickyellow_try4_17_ZSCAN.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/CAthickyellow_try4_18.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/DERt3_1.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/DOERNER.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/Ft-ir.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/HENE25.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/HENE27.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/KRY3.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/KRY4.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/KRY5.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/MERC.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/NMR_FID.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/NMR_SPC.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/RAMAN.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/RUBY18.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/TS01.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/kry2.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/m_evenz.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/m_ordz.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/m_xyxy.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/ms.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/nir.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/s_evenx.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots2/s_xy.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/4d_map.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/BC408_5mmHorizontal.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/CAthickyellow_try4_17_ZSCAN.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/CAthickyellow_try4_18.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/DERt3_1.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/DOERNER.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/Ft-ir.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/HENE25.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/HENE27.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/KRY3.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/KRY4.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/KRY5.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/MERC.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/NMR_FID.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/NMR_SPC.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/RAMAN.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/RUBY18.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/TS01.SPC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/kry2.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/m_evenz.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/m_ordz.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/m_xyxy.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/ms.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/nir.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/s_evenx.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/plots3/s_xy.spc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/s_evenx.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/s_xy.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/test_input.spc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/4d_map.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/CAthickyellow_try4_17_ZSCAN.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/CAthickyellow_try4_18.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/DERt3_1.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/DOERNER.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/Ft-ir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/HENE25.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/HENE27.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/KRY3.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/KRY4.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/KRY5.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/MERC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/NMR_FID.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/NMR_SPC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/RAMAN.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/RUBY18.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/TS01.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/kry2.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/m_evenz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/m_ordz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/m_xyxy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/ms.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/nir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/s_evenx.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt/s_xy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/4d_map.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/BC408_5mmHorizontal.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/CAthickyellow_try4_17_ZSCAN.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/CAthickyellow_try4_18.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/DERt3_1.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/DOERNER.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/Ft-ir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/HENE25.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/HENE27.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/KRY3.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/KRY4.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/KRY5.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/MERC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/NMR_FID.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/NMR_SPC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/RAMAN.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/RUBY18.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/TS01.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/kry2.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/m_evenz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/m_ordz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/m_xyxy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/ms.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/nir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/s_evenx.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/s_xy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt2/test_input.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/4d_map.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/BC408_5mmHorizontal.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/CAthickyellow_try4_17_ZSCAN.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/CAthickyellow_try4_18.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/DERt3_1.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/DOERNER.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/Ft-ir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/HENE25.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/HENE27.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/KRY3.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/KRY4.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/KRY5.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/MERC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/NMR_FID.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/NMR_SPC.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/RAMAN.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/RUBY18.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/TS01.SPC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/kry2.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/m_evenz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/m_ordz.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/m_xyxy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/ms.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/nir.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/s_evenx.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/txt3/s_xy.spc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/translations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
+    <list default="true" id="70d67fe8-7851-45e9-b83a-dcf50b1f681d" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -214,27 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.convert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convert_gui.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pkexe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.setup.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/PycharmProjects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.conversion.executor": "Run",
+    "Python.convert.executor": "Run",
+    "Python.convert_gui.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pkexe.executor": "Run",
+    "Python.setup.executor": "Run",
+    "Python.ui.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "fddfa0fe",
+    "last_opened_file_path": "C:/Users/Administrator/PycharmProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\spctocsv\spcConverter" />
@@ -260,12 +91,36 @@
       <workItem from="1724429163559" duration="43792000" />
       <workItem from="1725080411067" duration="802000" />
       <workItem from="1726833957653" duration="10722000" />
-      <workItem from="1729180362304" duration="782000" />
+      <workItem from="1729180362304" duration="9619000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1729181190690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729181190690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -312,12 +167,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ui.py</url>
-          <line>31</line>
+          <line>33</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/conversion.py</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -330,15 +185,49 @@
           <line>16</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyspectra/readers/read_spc.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conversion.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyspectra/readers/read_spc.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conversion.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conversion.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conversion.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="self.fversn " />
+        <watch expression="data.values.round(wavelength_decimal)" language="Python" />
         <watch expression="self.fversn == b'\x4b'" />
         <watch expression="self.sub[0].y" />
         <watch expression="file_path.lower().endswith(file_type)" />
         <watch expression="file_path.lower()" />
+        <watch expression="y" />
+        <watch expression="pd.Series(y,index=x)" language="Python" />
+        <watch expression="data.index.round(wavelength_decimal)" />
+        <watch expression="data.values.round(value_decimal)" />
       </configuration>
     </watches-manager>
   </component>
@@ -346,7 +235,9 @@
     <SUITE FILE_PATH="coverage/spcConverter$setup.coverage" NAME="setup Coverage Results" MODIFIED="1727107904706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spcConverter$pkexe.coverage" NAME="pkexe Coverage Results" MODIFIED="1727107870490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spcConverter$convert_gui.coverage" NAME="convert_gui Coverage Results" MODIFIED="1724522492535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spc" />
+    <SUITE FILE_PATH="coverage/spcConverter$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1729410441179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spcConverter$convert.coverage" NAME="convert Coverage Results" MODIFIED="1724429640296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spc" />
-    <SUITE FILE_PATH="coverage/spcConverter$main.coverage" NAME="main Coverage Results" MODIFIED="1727103179589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spcConverter$main.coverage" NAME="main Coverage Results" MODIFIED="1729442983869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spcConverter$ui.coverage" NAME="ui Coverage Results" MODIFIED="1729410024050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

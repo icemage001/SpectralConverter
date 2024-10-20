@@ -13,7 +13,9 @@
             "filter_by_status": "Filter by Status:",
             "file": "File Path",
             "status": "Status",
-            "language_select": "Select Language:"
+            "language_select": "Select Language:",
+            "wavelength_decimal": "Wavelength/Wavenumber Decimal Places:",
+            "value_decimal": "Value Decimal Places:"
         },
         "statuses": {
             "all": "All",
@@ -45,7 +47,9 @@
             "filter_by_status": "按状态筛选:",
             "file": "文件路径",
             "status": "状态",
-            "language_select": "选择语言:"
+            "language_select": "选择语言:",
+            "wavelength_decimal": "波长/波数小数位数:",
+            "value_decimal": "数值小数位数:"
         },
         "statuses": {
             "all": "所有",
