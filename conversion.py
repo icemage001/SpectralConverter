@@ -107,8 +107,8 @@ class FileConverter:
             return
 
         merged_df = pd.DataFrame({
-            file_name: series for file_name, series in converted_data
-        }).T
+                    file_name: series.iloc[0] for file_name, series in converted_data  # Extract the single row as a Series
+                    }).T
 
         save_path = filedialog.asksaveasfilename(defaultextension=".csv", filetypes=[("CSV Files", "*.csv")])
         if save_path:
